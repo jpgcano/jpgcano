@@ -28,12 +28,6 @@ Tecnólogo en análisis y desarrollo de sistemas con experiencia en soporte téc
 
 ---
 
-## 📁 Proyectos Destacados  
-- **Automatización Hospitalaria**: RPA con Rocketbot para inventarios y procesos hospitalarios.  
-  [Ver proyecto →](#)  
-- **Dashboard Técnico**: Panel analítico con Python + SQL + visualizaciones modernas.  
-  [Ver proyecto →](#)
-
 ---
 
 ## 📅 Mi Trayectoria  
