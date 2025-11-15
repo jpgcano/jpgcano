@@ -42,16 +42,20 @@
 </div>
 
 ---
-
 ## 🌐 LÍNEA DE TIEMPO PROFESIONAL
 
-> **2021** — IA & Python (SENA + Everis)  
-> **2022** — Bootcamps: Azure + SQL + Ciberseguridad  
-> **2022** — Practicante Desarrollador (San Vicente de Paul)  
-> **2023** — Auxiliar de Sistemas (San Juan de Dios)  
-> **2024** — RPA + Desarrollo Full Stack  
-> **2025** — Dev Portafolio Profesional  
+<div align="center">
 
+| Año | Experiencia |
+|-----|-------------|
+| **2021** | IA & Python (SENA + Everis) |
+| **2022** | Bootcamps Azure + SQL + Ciberseguridad |
+| **2022** | Practicante Desarrollador (San Vicente de Paul) |
+| **2023** | Auxiliar de Sistemas (San Juan de Dios) |
+| **2024** | RPA + Desarrollo Full Stack |
+| **2025** | Dev Portafolio Profesional |
+
+</div>
 
 # 🟩 **HABILIDADES DESTACADAS**
 
