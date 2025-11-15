@@ -9,7 +9,7 @@
 <div align="center">
 
 # 🐓 **JPGCANO**
-### Analista de Sistemas • Full Stack Developer • RPA Automation  
+### Analista de Sistemas • Full Stack Developer • Automatización RPA  
 **[@jpgcano](https://github.com/jpgcano)**  
 
 <img src="https://raw.githubusercontent.com/jpgcano/jpgcano/main/banner-dev-portafolio.png" width="85%">
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr><td>
 
 Tecnólogo en análisis y desarrollo de sistemas con experiencia en soporte técnico,  
@@ -41,7 +41,7 @@ Enfoque en precisión, orden, eficiencia y estética tecnológica limpia.
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 <td align="center"><img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><br>Python</td>
 <td align="center"><img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"><br>PHP</td>
@@ -60,14 +60,42 @@ Enfoque en precisión, orden, eficiencia y estética tecnológica limpia.
 
 <div align="center">
 
-<table>
-<tr><th>Año</th><th>Experiencia</th></tr>
-<tr><td>🟪 2021</td><td>IA & Python (SENA + Everis)</td></tr>
-<tr><td>🟦 2022</td><td>Bootcamps: Azure + SQL + Ciberseguridad</td></tr>
-<tr><td>🟦 2022</td><td>Practicante Desarrollador (San Vicente de Paul)</td></tr>
-<tr><td>🟩 2023</td><td>Auxiliar de Sistemas (San Juan de Dios)</td></tr>
-<tr><td>🟧 2024</td><td>RPA + Desarrollo Full Stack</td></tr>
-<tr><td>🟩 2025</td><td>Dev Portafolio Profesional</td></tr>
+<table width="100%">
+<tr>
+  <th width="15%">Año</th>
+  <th width="85%">Experiencia</th>
+</tr>
+
+<tr>
+  <td align="center">🟪 2021</td>
+  <td>IA & Python (SENA + Everis)</td>
+</tr>
+
+<tr>
+  <td align="center">🟦 2022</td>
+  <td>Bootcamps: Azure + SQL + Ciberseguridad</td>
+</tr>
+
+<tr>
+  <td align="center">🟦 2022</td>
+  <td>Practicante Desarrollador — San Vicente de Paul</td>
+</tr>
+
+<tr>
+  <td align="center">🟩 2023</td>
+  <td>Auxiliar de Sistemas — San Juan de Dios</td>
+</tr>
+
+<tr>
+  <td align="center">🟧 2024</td>
+  <td>RPA + Desarrollo Full Stack</td>
+</tr>
+
+<tr>
+  <td align="center">🟩 2025</td>
+  <td>Dev Portafolio Profesional</td>
+</tr>
+
 </table>
 
 </div>
@@ -78,16 +106,24 @@ Enfoque en precisión, orden, eficiencia y estética tecnológica limpia.
 
 <div align="center">
 
-<table>
-<tr><td>
+<table width="100%">
+<tr>
+  <td width="50%">
 
 - 🧠 Pensamiento Analítico  
 - 🎯 Orientación al Logro  
 - 🔍 Atención al Detalle  
+
+  </td>
+
+  <td width="50%">
+
 - 🤝 Trabajo en Equipo  
 - ⚡ Aprendizaje Continuo  
+- 🔧 Adaptabilidad Tecnológica  
 
-</td></tr>
+  </td>
+</tr>
 </table>
 
 </div>
@@ -98,29 +134,37 @@ Enfoque en precisión, orden, eficiencia y estética tecnológica limpia.
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
-  <th>Proyecto</th>
-  <th>Descripción</th>
-  <th>Enlace</th>
+  <th width="25%">Proyecto</th>
+  <th width="60%">Descripción</th>
+  <th width="15%">Enlace</th>
 </tr>
 
 <tr>
   <td align="center">
-    <img width="70" src="https://img.icons8.com/?size=80&id=21442&format=png&color=B300FF"><br>
+    <img width="60" src="https://img.icons8.com/?size=80&id=21442&format=png&color=B300FF"><br>
     <b>Automatización Hospitalaria</b>
   </td>
-  <td>Automatización RPA con Rocketbot para inventarios y procesos críticos.</td>
-  <td><a href="#">Ver proyecto →</a></td>
+  <td>
+    Automatización RPA con Rocketbot para inventarios, procesos críticos y flujos operativos en entornos hospitalarios.
+  </td>
+  <td align="center">
+    <a href="#">Ver →</a>
+  </td>
 </tr>
 
 <tr>
   <td align="center">
-    <img width="70" src="https://img.icons8.com/?size=80&id=U3n8kC1xKyWe&format=png&color=00D5FF"><br>
+    <img width="60" src="https://img.icons8.com/?size=80&id=U3n8kC1xKyWe&format=png&color=00D5FF"><br>
     <b>Dashboard Técnico</b>
   </td>
-  <td>Panel analítico con Python, SQL y visualizaciones modernas.</td>
-  <td><a href="#">Ver proyecto →</a></td>
+  <td>
+    Panel analítico con Python, SQL, queries optimizadas y visualizaciones profesionales orientadas a toma de decisiones.
+  </td>
+  <td align="center">
+    <a href="#">Ver →</a>
+  </td>
 </tr>
 
 </table>
