@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Banner -->
-  <img src="TU_BANNER_URL" width="80%" alt="Banner JPGCANO">
+  <img src="banner.png" width="80%" alt="Banner JPGCANO">
 </div>
 
 # 👋 Hola, soy **JPGCANO**
