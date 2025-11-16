@@ -1,6 +1,6 @@
 ![Banner JPGCANO](banner.png)
 
-# Hola, soy "JPGCANO"
+# Hola, soy "Juan pablo cano"
 
 **Analista de Sistemas - Desarrollador Full Stack - Automatización RPA**
 
