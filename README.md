@@ -1,59 +1,80 @@
 ![Banner JPGCANO](banner.png)
 
-# Hola, soy "Juan pablo cano"
-
-**Analista de Sistemas - Desarrollador Full Stack - Automatización RPA**
-
----
-
-## Sobre mí
-Tecnólogo en análisis y desarrollo de sistemas. He trabajado en soporte técnico, redes, desarrollo web y automatización RPA. Me interesa construir soluciones limpias y estables que respondan a necesidades reales. A veces me detengo de más en la organización del código, aunque suele ser una ventaja.
+# Juan Pablo Cano Gallo  
+**Desarrollador de Software**
 
 ---
 
-## Stack técnico
-- Python  
-- PHP  
-- SQL / MySQL  
-- Laravel  
-- Azure  
-- Rocketbot
-
-*(Puedes reemplazar por iconos Markdown si los necesitas.)*
+## Perfil  
+Tecnólogo en Análisis y Desarrollo de Sistemas con experiencia en soporte técnico, automatización RPA y desarrollo full-stack. Construyo soluciones eficientes que facilitan operaciones reales y reducen cargas manuales. Tengo una mentalidad analítica, orientación a resultados y aprendizaje constante.
 
 ---
 
-## Trayectoria
-- 2021 - IA y Python (SENA + Everis)  
-- 2022 - Bootcamps en Azure, SQL y Ciberseguridad  
-- 2022 - Practicante de Desarrollo en San Vicente de Paul  
-- 2023 - Auxiliar de Sistemas en San Juan de Dios  
-- 2024 - Desarrollo Full Stack y Automatización RPA  
-- 2025 - Consolidación de portafolio profesional
+## Experiencia profesional  
+
+**Auxiliar de Sistemas — Hospital San Juan de Dios**  
+*2023*  
+- Mantenimiento de equipos (computadores, impresoras) y redes  
+- Gestión de inventario tecnológico  
+- Soporte técnico para el personal hospitalario  
+
+**Practicante de Desarrollo — Fundación San Vicente de Paul**  
+*2022 – 2023*  
+- Automatización de procesos con Rocketbot (RPA)  
+- Desarrollo en Python  
+- Apoyo tecnológico interno  
 
 ---
 
-## Habilidades
+## Formación académica  
+
+**Tecnólogo en Análisis y Desarrollo de Sistemas**  
+SENA, *2020 – 2022*
+
+**Bachiller Académico**  
+Institución Educativa San Lorenzo de Aburrá, *2013*
+
+---
+
+## Certificaciones  
+
+- Azure Fundamentals, *2022*  
+- Bootcamp: Ciberseguridad & Soluciones en la Nube (Azure), *2022*  
+- Bootcamp: Administración y Desarrollo SQL en Azure, *2022*  
+- IA y Ciencia de Datos con Python, *2021*
+
+---
+
+## Habilidades técnicas  
+
+<div align="left">  
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">  
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP">  
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL">  
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel">  
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" alt="Azure">  
+</div>
+
+- Automatización de procesos con Rocketbot  
+- Bases de datos relacionales (SQL / MySQL)  
+- Programación en Python, PHP, JavaScript, Java  
+- Desarrollo con Laravel  
+- Redes y ciberseguridad  
+- Arquitectura y servicios en Microsoft Azure  
+
+---
+
+## Habilidades personales  
+
 - Pensamiento analítico  
-- Trabajo colaborativo  
+- Resolución de problemas  
+- Trabajo en equipo  
 - Atención al detalle  
-- Enfoque en resultados  
-- Aprendizaje continuo  
-- Gestión técnica en entornos reales
+- Aprendizaje autodirigido  
+- Orientación al logro
 
 ---
 
-## Estadísticas
-![Stats](https://github-readme-stats.vercel.app/api?username=jpgcano&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpgcano&layout=compact&theme=tokyonight&hide_border=true)
+## Contacto  
 
----
-
-## Contacto
-[LinkedIn](https://www.linkedin.com/in/juancanogallo)  
-[Email](mailto:jpgcano1@gmail.com)  
-[Portafolio](https://jpgcano.com)
-
----
-
-"Código claro, ideas precisas, resultados que funcionan."
+[LinkedIn](https://www.linkedin.com/in/juancanogallo) • [Portafolio](https://jpgcano.com) • jpgcano1@gmail.com • +57 310 707 5829  
