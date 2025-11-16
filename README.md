@@ -48,11 +48,11 @@ Institución Educativa San Lorenzo de Aburrá, *2013*
 ## Habilidades técnicas
 
 <div align="center">  
-  <img height="40" style="margin: 0 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
-  <img height="40" style="margin: 0 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP">
-  <img height="40" style="margin: 0 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL">
-  <img height="40" style="margin: 0 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel">
-  <img height="40" style="margin: 0 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure">
+  <img height="45" style="margin: 0 22px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
+  <img height="45" style="margin: 0 22px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP">
+  <img height="45" style="margin: 0 22px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL">
+  <img height="45" style="margin: 0 22px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel">
+  <img height="45" style="margin: 0 22px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure">
 </div>
 
 - Automatización de procesos con Rocketbot  
@@ -61,6 +61,7 @@ Institución Educativa San Lorenzo de Aburrá, *2013*
 - Desarrollo con Laravel  
 - Redes y ciberseguridad  
 - Arquitectura y servicios en Microsoft Azure  
+
 ---
 
 ## Habilidades personales  
