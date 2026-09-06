@@ -78,3 +78,9 @@ Institución Educativa San Lorenzo de Aburrá, *2013*
 ## Contacto  
 
 [LinkedIn](https://www.linkedin.com/in/juancanogallo) • [Portafolio](https://jpgcano.com) • jpgcano1@gmail.com • +57 310 707 5829  
+
+## Autoría
+
+© 2026 jpgcano · [github.com/jpgcano](https://github.com/jpgcano)
+
+Publicado bajo licencia MIT. Ver [`LICENSE`](./LICENSE).
