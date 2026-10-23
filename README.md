@@ -13,7 +13,7 @@ Desarrollador enfocado en automatización de procesos con IA. Construyo aplicaci
 ## Experiencia profesional  
 
 **Contrato de capacitación — Riwi (Medellín)**  
-*Septiembre 2025 – actualidad*  
+*Septiembre 2025 – noviembre 2026*  
 - Programa intensivo de desarrollo de software con Python, JavaScript, Angular, Next.js y Express  
 - Automatización de procesos con IA, contenedores con Docker y servicios en Azure  
 
